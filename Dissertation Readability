@@ -1,0 +1,10 @@
+from textatistic import Textatistic
+textatistic_first =Path('Paper2010.txt').read_text()
+textatistic_diss = Path('Dissertation.txt').read_text()
+
+readability_first = Textatistic(textatistic_first)
+readability_diss = Textatistic(textatistic_diss)
+
+%precision 3
+readability_first.dict()
+readability_diss.dict()
