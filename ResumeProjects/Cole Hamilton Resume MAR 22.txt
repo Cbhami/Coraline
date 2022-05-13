@@ -1,0 +1,58 @@
+Cole B. Hamilton
+Senior Data Analyst
+San Antonio, TX
+910-824-1624
+cole.b.hamilton@gmail.com
+www.linkedin.com/in/hamiltoncole/
+ 
+Self-driven, results-oriented professional with excellent writing skills who has extensive experience managing recruitment, training, and agile team building in United States Army. Flexible and enthusiastic professional used to a fast-paced environment where solving problems is crucial. Well-versed in the use of statistical analysis and data analysis to identify underperforming areas and manage courses to increase junior members. Proven record in data analysis cleaning, visualizing, automating, and presenting complex datasets for senior managers. Mastery of data analytics reporting through data programming languages, quantitative analysis, and dashboard creations. Responsible for data solutions, data security, and protected information data governance.
+
+Skills
+
+Master in Agile Project Management, Human Resources, Leadership, and Staff Development. 
+Highly developed skills in data cleaning, data visualization, and dynamic report construction. 
+Experienced in content design, virtual teaching, and development. Expert in MS Teams. 
+Proficient in R, Python, M, and DAX programming languages.
+
+Professional Experience
+
+Senior Data Analyst - San Antonio, TX					July 2020 - Present
+Senior Data Analyst for the largest of five brigades within the United States Army Recruiting Command. Responsible for architecting data analytics models, reports, and dashboards for the command team. Design and facilitate the use of Power Bi, r Studio, and Microsoft Excel analytical tools. Executed Power Query scripts and developed tools for a team of 2,400 Soldiers to utilize.
+Manages millions of rows of code using SQL and database connections to provide data analytics to senior Army leaders. Trained and developed a staff of operations analysts to transform the brigade headquarters in advanced Microsoft Excel and Power Bi report development. 
+Established the 8-page Mission Report that was updated and published daily with code pulled from Open Database Connectivity through R, SQL, M, and DAX scripting languages. Focused on quantitative and statistical data analysis with a data focused technical expertise. Enabled senior leaders to make data driven decisions through technical writing and strategic business analysis. Collaborated with regional developers and data engineers to produce data road maps to develop successful business intelligence reports and products.
+
+Leadership and Training Management Experience
+
+District Recruiting Manager							May 2018 - July 2020
+Served as the Senior Enlisted Advisor facilitating one of three companies covering all enlisted accessions and officer commissioning in Iowa. Advised the commander on briefings, public engagements, marketing opportunities, and onboarding processes for a team of 30 Soldiers. Upskilled over 30 senior army leaders in business solutions and business decision making through managing annual evaluations, awards and commendations, counseling, and mentoring. 
+Generated business insights through data exploration and business intelligence methods. Developed campaign strategies and used technical skills to interpret data for the commander. Conducted management consulting for six other companies within the region while balancing simultaneous projects and meeting business demands.
+Conceptualized, analyzed data, and evaluated lifecycle-recruiting operations to support a company for combined annual enlistment objectives of over 210 hires, new Soldiers in a unit consisting of over 30 hiring counselors and subordinate office managers, station commanders among four different recruiting offices. Focused product marketing and strategic initiatives to achieve success. 
+
+Senior Noncommissioned Officer					October 2004 - May 2018
+Senior manager in human resources with a focus in technical teams and process improvements in Army recruiting methods. Flexible in a rapidly changing environment with efficiencies in tactical planning and managing technical teams. User friendly leader with over 12 years of human resource and technical recruiting expertise. Proven ability to work in a team environment and rise as a leader amongst peers.
+Delivered service autonomously as an overseas recruiter assigned to Heidelberg MEPS covering three continents. Interacted with NATO, UN, and DOD component installations along with US Embassies across the world. Motivated a small geographically dispersed team to collaborate and problem solve to achieve business requirements.
+Performed as a Paratrooper and Engineer with the 82nd Airborne Division  Ft Bragg, NC. Served in both Operation Enduring and Operation Iraqi Freedom. Formed and managed teams with diverse people through effective communication, conflict management, and interpersonal skills. Displayed skills in leadership and people management while planning special projects.
+
+Education
+
+Graduate Certificate in Data Science (Est May 2023)
+University of Louisville, KY
+Doctor of Philosophy, Human Resource Management (GPA 3.77) 
+Northcentral University, La Jolla, CA 
+Master of Arts, Leadership and Management (GPA 3.5) 
+Liberty University, Lynchburg, VA 
+Master of Business Administration in Finance (GPA 3.82) 
+Post University, Waterbury, CT 
+
+Certifications
+
+SHRM-CP Society for Human Resource Management – Senior Certified Professional
+PMI-DASM Disciplined Agile Scrum Master
+Certified Agile Professional
+Lean Six Sigma Master Black Belt 
+Cornell Data Science Certificate - R and R Studio
+USC Intermediate Data Analytics Certificate - Microsoft Excel and Power Bi
+Google Data Analytics Certifications - Google Sheets and R
+IBM Data Analyst Certificate - Python
+DA-100 Microsoft Power Bi Data Analyst Certification 
+Excel Architect Certification
