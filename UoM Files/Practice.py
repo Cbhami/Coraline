@@ -14,5 +14,9 @@ else:
 
 print("The number is quite " + xl)
 
+#atom test
+
+def fname(arg):
+    pass
 
 exit()
