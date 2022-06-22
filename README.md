@@ -4,25 +4,24 @@ Welcome to my public repo! Here I have a list of projects I am working on. I hav
 
 ## Table of contents
 
+###### MachineLearning
 
-MachineLearning
+###### MapMyRunProjects
 
-MapMyRunProjects
+###### NLP
 
-NLP
+###### Netflix Project
 
-Netflix Project
+###### Output
 
-Output
+###### Resources
 
-Resources
+###### ResumeProjects
 
-ResumeProjects
+###### Tweepy
 
-Tweepy
+###### UoM Files
 
-UoM Files
-
-UofW Files
+###### UofW Files
 
 README.md
