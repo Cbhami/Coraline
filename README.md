@@ -4,7 +4,7 @@ Welcome to my public repo! Here I have a list of projects I am working on. I hav
 
 ## Table of contents
 
-###### MachineLearning
+###### [MachineLearning](https://github.com/Cbhami/Coraline/tree/master/MachineLearning)
 
 ###### MapMyRunProjects
 
