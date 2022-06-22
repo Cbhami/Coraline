@@ -8,6 +8,7 @@ Welcome to my public repo! Here I have a list of projects I am working on. I hav
 
 ##### [MapMyRunProjects](https://github.com/Cbhami/Coraline/tree/master/MapMyRunProjects)
 
+My MapMyRun Projects are my original data analysis projects and I am happy to share my progress. My original data visualization with this dataset is the MapMyRun Dashboard located in the Power Bi project links below. I also have multiple jupyter notebooks where I have explored various EDA and ML techniques.
 
 ###### Power Bi Projects
 
