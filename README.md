@@ -12,11 +12,13 @@ My MapMyRun Projects are my original data analysis projects and I am happy to sh
 
 ###### Power Bi Projects
 
-MapMyRun Dashboard
+[MapMyRun Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjUzZjU5ZDYtNmQ3ZC00MWMxLTk3OWMtZmIwNDM3YzM1NjMwIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
 Apple Health Dashboard
 
 Amazon Halo Dashboard
+
+[Power Bi for Financial Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiMjE1YWY1OGYtYmRhOS00MDgwLTk5M2UtYWYwNWI2NTQ0MTljIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
 ##### [NLP](https://github.com/Cbhami/Coraline/tree/master/NLP)
 
@@ -24,7 +26,7 @@ Amazon Halo Dashboard
 
 ###### Power Bi Projects
 
-**Netflix Dashboard**
+[Netflix Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmYwMWMwYjItNWVjZS00MzEwLTlmZjAtZmU3NWM2YzQ3NzU1IiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
 ##### [Output](https://github.com/Cbhami/Coraline/tree/master/Output)
 
