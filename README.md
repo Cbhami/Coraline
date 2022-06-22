@@ -6,14 +6,23 @@ Welcome to my public repo! Here I have a list of projects I am working on. I hav
 
 
 MachineLearning
+
 MapMyRunProjects
 
 NLP
+
 Netflix Project
+
 Output
+
 Resources
+
 ResumeProjects
+
 Tweepy
+
 UoM Files
+
 UofW Files
+
 README.md
