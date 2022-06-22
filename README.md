@@ -4,24 +4,37 @@ Welcome to my public repo! Here I have a list of projects I am working on. I hav
 
 ## Table of contents
 
-###### [MachineLearning](https://github.com/Cbhami/Coraline/tree/master/MachineLearning)
+##### [MachineLearning](https://github.com/Cbhami/Coraline/tree/master/MachineLearning)
 
-###### MapMyRunProjects
+##### [MapMyRunProjects](https://github.com/Cbhami/Coraline/tree/master/MapMyRunProjects)
 
-###### NLP
 
-###### Netflix Project
+###### Power Bi Projects
 
-###### Output
+MapMyRun Dashboard
 
-###### Resources
+Apple Health Dashboard
 
-###### ResumeProjects
+Amazon Halo Dashboard
 
-###### Tweepy
+##### [NLP](https://github.com/Cbhami/Coraline/tree/master/NLP)
 
-###### UoM Files
+##### [Netflix Project](https://github.com/Cbhami/Coraline/tree/master/Netflix%20Project)
 
-###### UofW Files
+###### Power Bi Projects
+
+**Netflix Dashboard**
+
+##### [Output](https://github.com/Cbhami/Coraline/tree/master/Output)
+
+##### [Resources](Resources)
+
+##### [ResumeProjects](https://github.com/Cbhami/Coraline/tree/master/ResumeProjects)
+
+##### [Tweepy](https://github.com/Cbhami/Coraline/tree/master/Tweepy)
+
+##### [UoM Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
+
+##### [UofW Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
 
 README.md
