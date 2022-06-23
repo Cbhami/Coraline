@@ -20,6 +20,8 @@ Amazon Halo Dashboard
 
 [Power Bi for Financial Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiMjE1YWY1OGYtYmRhOS00MDgwLTk5M2UtYWYwNWI2NTQ0MTljIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
+[IBM Cognos Dashboard](https://dataplatform.cloud.ibm.com/dashboards/a98ff4b5-cb40-41cd-b0fa-b10e53804cb1/view/6c21a00238940acb7fe8e2e4079c28067a332258b2bb805783d77b4959317997f06f4794c82c4d0e8c450561f3ed125dcd)
+
 ##### [NLP](https://github.com/Cbhami/Coraline/tree/master/NLP)
 
 ##### [Netflix Project](https://github.com/Cbhami/Coraline/tree/master/Netflix%20Project)
