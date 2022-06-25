@@ -1,37 +1,37 @@
-,Certificate Name,Course Name,Enrollment Date,Grade Achieved,Link
-0,Google Data Analytics,Google Data Analytics Capstone: Complete a Case Study,12/28/2021,100,
-5,Google Data Analytics,Analyze Data to Answer Questions,12/26/2021,94,
-7,Google Data Analytics,Share Data Through the Art of Visualization,11/28/2021,91,
-8,Google Data Analytics,Process Data from Dirty to Clean,11/15/2021,88,
-9,Google Data Analytics,Prepare Data for Exploration,11/14/2021,97,
-13,Google Data Analytics,Ask Questions to Make Data-Driven Decisions,11/13/2021,91,
-14,Google Data Analytics,Data Analysis with R Programming,11/1/2021,83,
-15,Google Data Analytics,"Foundations: Data, Data, Everywhere",11/1/2021,87,
-16,Google Project Management,Capstone: Applying Project Management in the Real World,3/6/2022,93,
-17,Google Project Management,Project Execution: Running the Project,3/4/2022,92,
-18,Google Project Management,Project Planning: Putting It All Together,2/19/2022,94,
-22,Google Project Management,Project Initiation: Starting a Successful Project,1/15/2022,92,
-23,Google Project Management,Foundations of Project Management,11/18/2021,94,
-25,Google Project Management,Agile Project Management,11/18/2021,86,
-26,IBM Data Analyst,Data Visualization with Python,1/1/2022,85,
-27,IBM Data Analyst,IBM Data Analyst Capstone Project,1/1/2022,86,
-28,IBM Data Analyst,Python Project for Data Science,12/30/2021,95,
-29,IBM Data Analyst,Data Analysis with Python,12/30/2021,82,
-30,IBM Data Analyst,Databases and SQL for Data Science with Python,11/17/2021,84,
-31,IBM Data Analyst,"Python for Data Science, AI & Development",11/15/2021,83,
-32,IBM Data Analyst,Data Visualization and Dashboards with Excel and Cognos,11/13/2021,95,
-33,IBM Data Analyst,Introduction to Data Analytics,11/12/2021,95,
-34,IBM Data Analyst,Excel Basics for Data Analysis,11/12/2021,97,
-35,IBM Data Science,Machine Learning with Python,2/16/2022,81,
-37,IBM Data Science,Applied Data Science Capstone,2/16/2022,87,
-39,IBM Data Science,Data Science Methodology,1/16/2022,83,
-40,IBM Data Science,Tools for Data Science,1/9/2022,85,
-42,IBM Data Science,What is Data Science?,11/22/2021,83,
-45,,Supervised Machine Learning: Regression,5/19/2022,90,
-46,,Exploratory Data Analysis for Machine Learning,4/29/2022,82,
-49,,Introduction to Git and GitHub,2/16/2022,100,
-50,,Crash Course on Python,2/4/2022,88,
-51,,Agile Leadership: Introduction to Change,12/30/2021,92,
-53,,Introduction to Scrum Master Training,12/24/2021,88,
-54,,Introduction to Agile Development and Scrum,12/20/2021,88,
-55,,The Data Scientist’s Toolbox,10/19/2021,90,
+,Certificate Name,Course Name,Enrollment Date,Grade Achieved
+0,Google Data Analytics,Google Data Analytics Capstone: Complete a Case Study,12/28/2021,100
+1,Google Data Analytics,Analyze Data to Answer Questions,12/26/2021,94
+2,Google Data Analytics,Share Data Through the Art of Visualization,11/28/2021,91
+3,Google Data Analytics,Process Data from Dirty to Clean,11/15/2021,88
+4,Google Data Analytics,Prepare Data for Exploration,11/14/2021,97
+5,Google Data Analytics,Ask Questions to Make Data-Driven Decisions,11/13/2021,91
+6,Google Data Analytics,Data Analysis with R Programming,11/1/2021,83
+7,Google Data Analytics,"Foundations: Data, Data, Everywhere",11/1/2021,87
+8,Google Project Management,Capstone: Applying Project Management in the Real World,3/6/2022,93
+9,Google Project Management,Project Execution: Running the Project,3/4/2022,92
+10,Google Project Management,Project Planning: Putting It All Together,2/19/2022,94
+11,Google Project Management,Project Initiation: Starting a Successful Project,1/15/2022,92
+12,Google Project Management,Foundations of Project Management,11/18/2021,94
+13,Google Project Management,Agile Project Management,11/18/2021,86
+14,IBM Data Analyst,Data Visualization with Python,1/1/2022,85
+15,IBM Data Analyst,IBM Data Analyst Capstone Project,1/1/2022,86
+16,IBM Data Analyst,Python Project for Data Science,12/30/2021,95
+17,IBM Data Analyst,Data Analysis with Python,12/30/2021,82
+18,IBM Data Analyst,Databases and SQL for Data Science with Python,11/17/2021,84
+19,IBM Data Analyst,"Python for Data Science, AI & Development",11/15/2021,83
+20,IBM Data Analyst,Data Visualization and Dashboards with Excel and Cognos,11/13/2021,95
+21,IBM Data Analyst,Introduction to Data Analytics,11/12/2021,95
+22,IBM Data Analyst,Excel Basics for Data Analysis,11/12/2021,97
+23,IBM Data Science,Machine Learning with Python,2/16/2022,81
+24,IBM Data Science,Applied Data Science Capstone,2/16/2022,87
+25,IBM Data Science,Data Science Methodology,1/16/2022,83
+26,IBM Data Science,Tools for Data Science,1/9/2022,85
+27,IBM Data Science,What is Data Science?,11/22/2021,83
+28,,Supervised Machine Learning: Regression,5/19/2022,90
+29,,Exploratory Data Analysis for Machine Learning,4/29/2022,82
+30,,Introduction to Git and GitHub,2/16/2022,100
+31,,Crash Course on Python,2/4/2022,88
+32,,Agile Leadership: Introduction to Change,12/30/2021,92
+33,,Introduction to Scrum Master Training,12/24/2021,88
+34,,Introduction to Agile Development and Scrum,12/20/2021,88
+35,,The Data Scientist’s Toolbox,10/19/2021,90
