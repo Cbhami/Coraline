@@ -8,10 +8,10 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
-library(gitcreds)
-library(usethis)
-create_github_token()
-gitcreds_set()
+#library(gitcreds)
+#library(usethis)
+#create_github_token()
+#gitcreds_set()
 
 
 
@@ -27,8 +27,8 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 
 
 ```{r}
-setwd('C:/Users/coleb/OneDrive/Coraline')
-use_git()
+#setwd('C:/Users/coleb/OneDrive/Coraline')
+#use_git()
 
 
 
@@ -84,6 +84,54 @@ df <- within(run_data, rm('Link', 'Notes', 'Source'))
 
 #df$minutes <- as.numeric(as.character(df$minutes))
 df <- df %>% mutate_if(is.numeric, round, digits = 2)
+
+head(df, 5)
+
+```
+
+```{r}
+
+HRmedian <- median(df$Avg.HR)
+Stepsmedian <- median(df$Steps)
+
+library(lubridate)
+library(tidyverse)
+
+df <- df %>% mutate(Date=mdy(Date))
+
+df <- df %>% dplyr::mutate(Avg.HR = ifelse(Avg.HR == 0, HRmedian, Avg.HR))
+# #df <- df %>% dplyr::mutate(Avg.HR = ifelse(Avg.HR == NA, HRmean, Avg.HR))
+df <- df %>% dplyr::mutate(Steps = ifelse(Steps == 0, Stepsmedian, Steps))
+# #df <- df %>% dplyr::mutate(Steps = ifelse(Steps == NA, Stepsmean, Steps))
+
+df[is.na(df)] = 0
+
+df$Avg.HR[is.na(df$Avg.HR)] <- median(df$Avg.HR, na.rm = TRUE)
+df$Steps[is.na(df$Steps)] <- median(df$Steps, na.rm = TRUE)
+df$Max.Pace[is.na(df$Max.Pace)] <- median(df$Max.Pace, na.rm = TRUE)
+df$Avg.Pace[is.na(df$Avg.Pace)] <- median(df$Avg.Pace, na.rm = TRUE)
+df$Max.Spd[is.na(df$Max.Spd)] <- median(df$Max.Spd, na.rm = TRUE)
+df$Avg.Spd[is.na(df$Avg.Spd)] <- median(df$Avg.Spd, na.rm = TRUE)
+df$Cal.Burned[is.na(df$Cal.Burned)] <- median(df$Cal.Burned, na.rm = TRUE)
+
+df$day <- weekdays(as.Date(df$Date))
+df$month <- months(as.Date(df$Date))
+
+#Remove erroneous data (I know I have not run anything over 170 minutes)
+df <- df[df$duration < 170,]
+df <- df[df$Avg.Spd < 10,]
+df <- df[df$Cal.Burned < 2000,]
+df <- df[df$Date > '2019-01-01',]
+
+
+df$year <- format(df$Date, format = "%Y")
+df$year <- as.integer(df$year)
+
+#Create subsets for years 2021 and 2022
+df2022 <- df[df$Date >= "2022-01-01",]
+df2021 <- subset(df, Date < "2022-01-01" & Date.Sub >= "2021-01-01")
+
+head(df, 5)
 
 ```
 
