@@ -2,7 +2,7 @@ import pandas as pd
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-df = pd.read_csv("https://raw.githubusercontent.com/Cbhami/Coraline/master/Resources/csv%20data/user94403143_workout_history.csv")
+df = pd.read_csv(r"C:\Users\coleb\OneDrive\Coraline\Resources\csv data\user94403143_workout_history.csv")
 df['Date Submitted'] = pd.to_datetime(df['Date Submitted'])
 df['Date Submitted'] = df['Date Submitted'].dt.strftime('%Y-%m-%d')
 df['Workout Date'] = pd.to_datetime(df['Workout Date'])
