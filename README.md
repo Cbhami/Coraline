@@ -4,13 +4,13 @@ Welcome to my public repo! Here I have a list of projects I am working on. I hav
 
 ## Table of contents
 
-#### [MachineLearning](https://github.com/Cbhami/Coraline/tree/master/MachineLearning)
+### [MachineLearning](https://github.com/Cbhami/Coraline/tree/master/MachineLearning)
 
-#### [MapMyRunProjects](https://github.com/Cbhami/Coraline/tree/master/MapMyRunProjects)
+### [MapMyRunProjects](https://github.com/Cbhami/Coraline/tree/master/MapMyRunProjects)
 
 My MapMyRun Projects are my original data analysis projects and I am happy to share my progress. My original data visualization with this dataset is the MapMyRun Dashboard located in the Power Bi project links below. I also have multiple jupyter notebooks where I have explored various EDA and ML techniques.
 
-#### Dashboard Projects
+### Dashboard Projects
 
 [MapMyRun Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjUzZjU5ZDYtNmQ3ZC00MWMxLTk3OWMtZmIwNDM3YzM1NjMwIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
@@ -24,22 +24,22 @@ Amazon Halo Dashboard
 
 [2019-2022 MapMyRun Google Data Studio Project](https://datastudio.google.com/reporting/31573b87-1115-4cf6-9499-88db18c5ee03)
 
-#### [NLP](https://github.com/Cbhami/Coraline/tree/master/NLP)
+### [NLP](https://github.com/Cbhami/Coraline/tree/master/NLP)
 
-#### [Netflix Project](https://github.com/Cbhami/Coraline/tree/master/Netflix%20Project)
+### [Netflix Project](https://github.com/Cbhami/Coraline/tree/master/Netflix%20Project)
 
 [Netflix Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmYwMWMwYjItNWVjZS00MzEwLTlmZjAtZmU3NWM2YzQ3NzU1IiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
-#### [Output](https://github.com/Cbhami/Coraline/tree/master/Output)
+### [Output](https://github.com/Cbhami/Coraline/tree/master/Output)
 
-#### [Resources](Resources)
+### [Resources](Resources)
 
-#### [ResumeProjects](https://github.com/Cbhami/Coraline/tree/master/ResumeProjects)
+### [ResumeProjects](https://github.com/Cbhami/Coraline/tree/master/ResumeProjects)
 
-#### [Tweepy](https://github.com/Cbhami/Coraline/tree/master/Tweepy)
+### [Tweepy](https://github.com/Cbhami/Coraline/tree/master/Tweepy)
 
-#### [UoM Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
+### [UoM Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
 
-#### [UofW Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
+### [UofW Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
 
 README.md
