@@ -30,8 +30,6 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 setwd('C:/Users/coleb/OneDrive/Coraline')
 #use_git()
 
-
-
 ```
 ```{r}
 
@@ -97,7 +95,7 @@ Stepsmedian <- median(df$Steps)
 library(lubridate)
 library(tidyverse)
 
-df <- df %>% mutate(Date=mdy(Date))
+df <- df %>% mutate(Date=ymd(Date))
 
 df <- df %>% dplyr::mutate(Avg.HR = ifelse(Avg.HR == 0, HRmedian, Avg.HR))
 # #df <- df %>% dplyr::mutate(Avg.HR = ifelse(Avg.HR == NA, HRmean, Avg.HR))
