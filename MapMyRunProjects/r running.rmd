@@ -7,15 +7,12 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
-```{r}
-#library(gitcreds)
-#library(usethis)
-#create_github_token()
-#gitcreds_set()
-
-
-
-
+```{r setup, include=FALSE}
+library(gitcreds)
+library(usethis)
+create_github_token()
+gitcreds_set()
+knitr::opts_chunk$set(echo=FALSE)
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
@@ -28,9 +25,9 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 
 ```{r}
 setwd('C:/Users/coleb/OneDrive/Coraline')
-#use_git()
-
 ```
+
+
 ```{r}
 
 library(lubridate)
