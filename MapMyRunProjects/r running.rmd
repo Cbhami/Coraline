@@ -7,19 +7,16 @@ This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute
 
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
-```{r setup, include=FALSE}
-library(gitcreds)
-library(usethis)
-create_github_token()
-gitcreds_set()
-knitr::opts_chunk$set(echo=FALSE)
-```
-
 ```{r}
+#library(gitcreds)
+#library(usethis)
+#create_github_token()
+#gitcreds_set()
+
+
+
 
 ```
-
-
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
 
@@ -31,11 +28,11 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 
 ```{r}
 setwd('C:/Users/coleb/OneDrive/Coraline')
+#use_git()
+
 
 
 ```
-
-
 ```{r}
 
 library(lubridate)
@@ -62,8 +59,8 @@ getwd()
 #run_data <- read.csv("user94403143_workout_history.csv", header=TRUE)
 run_data <- data.frame(df)
 
-df <- df %>% mutate(Workout.Date=mdy(Workout.Date))
-df <- df %>% mutate(Date.Submitted=mdy(Date.Submitted))
+df <- df %>% mutate(Workout.Date=ymd(Workout.Date))
+#df <- df %>% mutate(Date.Submitted=mdy(Date.Submitted))
 
 head(df, 1)
 
