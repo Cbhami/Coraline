@@ -1,5 +1,9 @@
 Date Submitted,Workout Date,Activity Type,Calories Burned (kCal),Distance (mi),Workout Time (seconds),Avg Pace (min/mi),Max Pace (min/mi),Avg Speed (mi/h),Max Speed (mi/h),Avg Heart Rate,Steps,Notes,Source,Link
+<<<<<<< HEAD
 "Aug. 22, 2022","Aug. 22, 2022",Indoor Run / Jog,414,3.09999,1801,9.6828,9.95841,6.19656,6.02506,144,4599,b'',Map My Fitness MapMyRun iPhone,http://www.mapmyfitness.com/workout/6797274268
+=======
+"Aug. 22, 2022","Aug. 22, 2022",Indoor Run / Jog,364,2.63968,1840,11.5406,9.9584,5.19904,6.02506,144,4599,b'',Map My Fitness MapMyRun iPhone,http://www.mapmyfitness.com/workout/6797274268
+>>>>>>> 735a777d470fdafb45d2917b94b6c3e6c45ac8f0
 "Aug. 20, 2022","Aug. 20, 2022",Run,1544,13.11,11065,14.0669,7.71115,4.26534,7.78094,140,22531,b'',Map My Fitness MapMyRun iPhone,http://www.mapmyfitness.com/workout/6793063441
 "Aug. 17, 2022","Aug. 17, 2022",Indoor Run / Jog,859,6.56,3600,9.14634,10.3654,6.56,5.78848,147,9295,b'',Map My Fitness MapMyRun iPhone,http://www.mapmyfitness.com/workout/6786805174
 "Aug. 15, 2022","Aug. 15, 2022",Indoor Run / Jog,632,4.74,3600,12.6582,10.4218,4.74,5.75715,122,8146,b'',Map My Fitness MapMyRun iPhone,http://www.mapmyfitness.com/workout/6781978366
