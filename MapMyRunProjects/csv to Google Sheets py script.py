@@ -24,7 +24,7 @@ scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/au
 # client.import_csv(spreadsheet.id, data=content)
 
 #Windows
-credentials = ServiceAccountCredentials.from_json_keyfile_name(r'C:\Users\coleb\OneDrive\client_secret.json', scope)
+credentials = ServiceAccountCredentials.from_json_keyfile_name(r'C:\Users\coleb\OneDrive\Important Keys\client_secret.json', scope)
 #Mac
 #credentials = ServiceAccountCredentials.#from_json_keyfile_name(r'/Users/colehamilton/Library/#CloudStorage/OneDrive-Personal/client_secret.json', scope)
 client = gspread.authorize(credentials)
