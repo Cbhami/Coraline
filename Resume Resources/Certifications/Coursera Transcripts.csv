@@ -1,38 +1,72 @@
-Certificate Name,Course Name,Enrollment Date,Grade Achieved,Link
-Google Data Analytics,Google Data Analytics Capstone: Complete a Case Study,12/28/2021 0:00,100,
-Google Data Analytics,Analyze Data to Answer Questions,12/26/2021 0:00,94.58,
-Google Data Analytics,Share Data Through the Art of Visualization,11/28/2021 0:00,91.71,
-Google Data Analytics,Process Data from Dirty to Clean,11/15/2021 0:00,88.88,
-Google Data Analytics,Prepare Data for Exploration,11/14/2021 0:00,97.61,
-Google Data Analytics,Ask Questions to Make Data-Driven Decisions,11/13/2021 0:00,91.38,
-Google Data Analytics,Data Analysis with R Programming,11/1/2021 0:00,83.91,
-Google Data Analytics,"Foundations: Data, Data, Everywhere",11/1/2021 0:00,87.63,
-Google Project Management,Capstone: Applying Project Management in the Real World,3/6/2022 0:00,93.81,
-Google Project Management,Project Execution: Running the Project,3/4/2022 0:00,92.52,
-Google Project Management,Project Planning: Putting It All Together,2/19/2022 0:00,94.13,
-Google Project Management,Project Initiation: Starting a Successful Project,1/15/2022 0:00,92.69,
-Google Project Management,Foundations of Project Management,11/18/2021 0:00,94.6,
-Google Project Management,Agile Project Management,11/18/2021 0:00,86.09,
-IBM Data Analyst,Data Visualization with Python,1/1/2022 0:00,85.83,
-IBM Data Analyst,IBM Data Analyst Capstone Project,1/1/2022 0:00,86.67,
-IBM Data Analyst,Python Project for Data Science,12/30/2021 0:00,95,
-IBM Data Analyst,Data Analysis with Python,12/30/2021 0:00,82,
-IBM Data Analyst,Databases and SQL for Data Science with Python,11/17/2021 0:00,84.19,
-IBM Data Analyst,"Python for Data Science, AI & Development",11/15/2021 0:00,83.6,
-IBM Data Analyst,Data Visualization and Dashboards with Excel and Cognos,11/13/2021 0:00,95,
-IBM Data Analyst,Introduction to Data Analytics,11/12/2021 0:00,95.85,
-IBM Data Analyst,Excel Basics for Data Analysis,11/12/2021 0:00,97.52,
-IBM Data Science,Machine Learning with Python,2/16/2022 0:00,81.5,
-IBM Data Science,Applied Data Science Capstone,2/16/2022 0:00,87.83,
-IBM Data Science,Data Science Methodology,1/16/2022 0:00,83.17,
-IBM Data Science,Tools for Data Science,1/9/2022 0:00,85.83,
-IBM Data Science,What is Data Science?,11/22/2021 0:00,83.33,
-,Supervised Machine Learning: Classification,5/20/2022 0:00,70.38,
-,Supervised Machine Learning: Regression,5/19/2022 0:00,90.94,
-,Exploratory Data Analysis for Machine Learning,4/29/2022 0:00,82.5,
-,Introduction to Git and GitHub,2/16/2022 0:00,100,
-,Crash Course on Python,2/4/2022 0:00,88,
-,Agile Leadership: Introduction to Change,12/30/2021 0:00,92.66,
-,Introduction to Scrum Master Training,12/24/2021 0:00,88.13,
-,Introduction to Agile Development and Scrum,12/20/2021 0:00,88,
-,The Data Scientist�s Toolbox,10/19/2021 0:00,90.89,
+﻿Certificate Name,Course Name,Enrollment Date,Link
+NaN,Introduction to Git and GitHub,2/16/22,NaN
+Google Project Management,Capstone: Applying Project Management in the Real World,3/6/22,https://coursera.org/share/5631a803ab6306376ad8bb953022b556
+NaN,Deep Learning and Reinforcement Learning,6/25/22,NaN
+NaN,Getting Started with SAS Visual Analytics,2/24/22,NaN
+NaN,SQL for Data Science with R,7/10/22,NaN
+Google Data Analytics,Prepare Data for Exploration,11/14/21,https://coursera.org/share/188441016b9730162e5549c0fd136a0b
+IBM Data Analyst,Python Project for Data Science,12/30/21,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+IBM Data Analyst,Excel Basics for Data Analysis,11/12/21,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+Google Project Management,Foundations of Project Management,11/18/21,https://coursera.org/share/5631a803ab6306376ad8bb953022b556
+Google Data Analytics,Analyze Data to Answer Questions,12/26/21,https://coursera.org/share/188441016b9730162e5549c0fd136a0b
+NaN,Introduction to Agile Development and Scrum,12/20/21,NaN
+NaN,Data Analysis in Python with pandas & matplotlib in Spyder,2/4/22,NaN
+IBM Data Analyst,Data Visualization and Dashboards with Excel and Cognos,11/13/21,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+Google Project Management,Project Initiation: Starting a Successful Project,1/15/22,https://coursera.org/share/5631a803ab6306376ad8bb953022b556
+NaN,Agile Leadership: Introduction to Change,12/30/21,NaN
+Google Data Analytics,Share Data Through the Art of Visualization,11/28/21,https://coursera.org/share/188441016b9730162e5549c0fd136a0b
+NaN,Supervised Machine Learning: Regression,5/19/22,NaN
+NaN,The Data Scientist’s Toolbox,10/19/21,NaN
+Google Data Analytics,Process Data from Dirty to Clean,11/15/21,https://coursera.org/share/188441016b9730162e5549c0fd136a0b
+Getting started with Google Workspace,Google Sheets,9/11/22,https://coursera.org/share/eb051d98829432162bdc78f34f1e9593
+Google Data Analytics,Ask Questions to Make Data-Driven Decisions,11/13/21,https://coursera.org/share/188441016b9730162e5549c0fd136a0b
+IBM Data Analyst,Introduction to Data Analytics,11/12/21,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+NaN,Introduction to Scrum Master Training,12/24/21,NaN
+NaN,Crash Course on Python,2/4/22,NaN
+Getting started with Google Workspace,Google Docs,9/10/22,https://coursera.org/share/eb051d98829432162bdc78f34f1e9593
+IBM Data Science,Applied Data Science Capstone,2/16/22,https://coursera.org/share/e229e6f9bf3781bc463f243f4d4306ab
+Getting started with Google Workspace,Gmail,9/8/22,https://coursera.org/share/eb051d98829432162bdc78f34f1e9593
+IBM Data Analyst,IBM Data Analyst Capstone Project,1/1/22,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+Google Project Management,Agile Project Management,11/18/21,https://coursera.org/share/5631a803ab6306376ad8bb953022b556
+IBM Data Analyst,Data Visualization with Python,1/1/22,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+IBM Data Science,Tools for Data Science,1/9/22,https://coursera.org/share/e229e6f9bf3781bc463f243f4d4306ab
+IBM Data Analyst,Databases and SQL for Data Science with Python,11/17/21,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+Google Data Analytics,Data Analysis with R Programming,11/1/21,https://coursera.org/share/188441016b9730162e5549c0fd136a0b
+IBM Data Analyst,"Python for Data Science, AI & Development",11/15/21,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+Getting started with Google Workspace,Google Drive,9/10/22,https://coursera.org/share/eb051d98829432162bdc78f34f1e9593
+IBM Data Science,What is Data Science?,11/22/21,https://coursera.org/share/e229e6f9bf3781bc463f243f4d4306ab
+Google Data Analytics,"Foundations: Data, Data, Everywhere",11/1/21,https://coursera.org/share/188441016b9730162e5549c0fd136a0b
+IBM Data Science,Data Science Methodology,1/16/22,https://coursera.org/share/e229e6f9bf3781bc463f243f4d4306ab
+Google Data Analytics,Google Data Analytics Capstone: Complete a Case Study,12/28/21,https://coursera.org/share/188441016b9730162e5549c0fd136a0b
+NaN,Exploratory Data Analysis for Machine Learning,4/29/22,NaN
+IBM Data Analyst,Data Analysis with Python,12/30/21,https://coursera.org/share/da07681340ea5f345cef21d04197f166
+Google Project Management,Project Planning: Putting It All Together,2/19/22,https://coursera.org/share/5631a803ab6306376ad8bb953022b556
+NaN,Data Analysis with R,7/10/22,NaN
+IBM Data Science,Machine Learning with Python,2/16/22,https://coursera.org/share/e229e6f9bf3781bc463f243f4d4306ab
+NaN,Supervised Machine Learning: Classification,5/20/22,NaN
+NaN,Introduction to R Programming for Data Science,7/10/22,NaN
+Getting started with Google Workspace,Google Calendar,9/9/22,https://coursera.org/share/eb051d98829432162bdc78f34f1e9593
+NaN,Data Visualization with R,7/10/22,NaN
+Google Project Management,Project Execution: Running the Project,3/4/22,https://coursera.org/share/5631a803ab6306376ad8bb953022b556
+NaN,Google Cloud Big Data and Machine Learning Fundamentals,5/24/22,NaN
+NaN,Programming for Everybody (Getting Started with Python),5/16/22,NaN
+NaN,Agile Meets Design Thinking,1/17/22,NaN
+NaN,Unsupervised Machine Learning,6/6/22,NaN
+Getting started with Google Workspace,Google Slides,9/11/22,https://coursera.org/share/eb051d98829432162bdc78f34f1e9593
+NaN,R Programming,10/19/21,NaN
+NaN,Getting and Cleaning Data,11/3/21,NaN
+NaN,Statistics for Data Science with Python,3/20/22,NaN
+NaN,Using Python to Interact with the Operating System,3/4/22,NaN
+NaN,Hypothesis-Driven Development,1/22/22,NaN
+NaN,Fundamentals of Scalable Data Science,10/25/21,NaN
+NaN,The Strategist's Challenge,7/4/22,NaN
+NaN,Getting Started with Power BI Desktop,12/27/21,NaN
+NaN,Coursera Career Services Orientation,1/21/22,NaN
+NaN,Extract Text Data with Python and Regex,3/13/22,NaN
+NaN,Machine Learning Foundations: A Case Study Approach,5/21/22,NaN
+NaN,Python Basics: Selection and Iteration,7/5/22,NaN
+NaN,Scrum Master Certification: Scrum Methodologies,2/21/22,NaN
+NaN,Introduction to Statistics,5/1/22,NaN
+NaN,Automating Real-World Tasks with Python,5/19/22,NaN
+NaN,Scripting with Python and SQL for Data Engineering,5/8/22,NaN
+NaN,SQL for Data Science,4/17/22,NaN
