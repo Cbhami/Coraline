@@ -36,6 +36,10 @@ Amazon Halo Dashboard
 
 ### [ResumeProjects](https://github.com/Cbhami/Coraline/tree/master/ResumeProjects)
 
+###### [Resume Dashboard (Power Bi)](https://app.powerbi.com/view?r=eyJrIjoiZmU5ODU1MWYtODUzYS00ZTVhLWI1YjItZjgxMjhhYWI4NjZjIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection8e1f091d381603402041)
+
+###### [Certification Dashboard (Tableau)](https://public.tableau.com/app/profile/cole.b.hamilton/viz/MyCertificationTracker/Dashboard1)
+
 ### [Tweepy](https://github.com/Cbhami/Coraline/tree/master/Tweepy)
 
 ### [UoM Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
