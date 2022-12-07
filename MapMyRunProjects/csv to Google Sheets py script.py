@@ -1,3 +1,9 @@
+#%pip install gspread
+#%pip install oauth2client.service_account
+#%pip install pandas
+#%pip install gspread-dataframe
+#%pip install gspread-formatting
+
 from gettext import install
 
 
