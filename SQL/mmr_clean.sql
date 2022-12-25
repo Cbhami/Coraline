@@ -21,6 +21,12 @@ VALUES ('2022-12-23', 'Run', '1750', '3.1', '9.4', '0', '6.3', '410', '146', '48
 
 SELECT * FROM myschema.mmr_clean WHERE `Date` = '2022-12-23';
 
+SHOW TABLES;
+
+SHOW COLUMNS FROM myschema.mmr_clean;
+
+SELECT * FROM myschema.mmr_clean WHERE `Date` = '2022-12-23';
+
 
 
 
