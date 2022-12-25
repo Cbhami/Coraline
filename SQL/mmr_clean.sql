@@ -27,6 +27,11 @@ SHOW COLUMNS FROM myschema.mmr_clean;
 
 SELECT * FROM myschema.mmr_clean WHERE `Date` = '2022-12-23';
 
+SELECT * FROM uwh;
+
+UPDATE myschema.uwh SET `Avg Heart Rate` = 142 WHERE `Avg Heart Rate` = '';
+
+ALTER TABLE myschema.uwh MODIFY `Avg Heart Rate` INTEGER;
 
 
 
