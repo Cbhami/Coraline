@@ -33,8 +33,12 @@ UPDATE myschema.uwh SET `Avg Heart Rate` = 142 WHERE `Avg Heart Rate` = '';
 
 ALTER TABLE myschema.uwh MODIFY `Avg Heart Rate` INTEGER;
 
+INSERT INTO uwh (`Date Submitted`, `Workout Date`, `Activity Type`, `Calories Burned (kCal)`, `Distance (mi)`, `Workout Time (seconds)`, `Avg Pace (min/mi)`, `Max Pace`, `Avg Speed (mi/h)`, `Max Speed`, `Avg Heart Rate`, `Steps`, `Notes`, `Source`, `Link`) VALUES ('Dec 25, 2022', 'Dec 25, 2022', 'Run', '760', '6.21', '3781', '10.13', '8.7', '5.9', '6.82', '154', '9912', 'b"','Map My Fitness MapMyRun iPhone', 'https://www.mapmyfitness.com/workout/7018077772');
 
+DELETE FROM uwh WHERE `Date Submitted` = '2022-12-25';
 
+#remove an entire row where date equals 2022-12-24
+DELETE FROM uwh WHERE `Date Submitted` = '2022-12-24';
 
 
 
