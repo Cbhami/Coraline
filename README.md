@@ -42,10 +42,6 @@ Amazon Halo Dashboard
 
 ### [Tweepy](https://github.com/Cbhami/Coraline/tree/master/Tweepy)
 
-### [UoM Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
-
-### [UofW Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
-
 ### [MachineLearning](https://github.com/Cbhami/Coraline/tree/master/MachineLearning)
 
 README.md
