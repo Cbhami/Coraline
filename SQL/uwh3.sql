@@ -1,1 +1,0 @@
-SELECT * FROM myschema.uwh3;

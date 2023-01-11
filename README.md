@@ -12,6 +12,10 @@ My MapMyRun Projects are my original data analysis projects and I am happy to sh
 
 [MapMyRun Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjUzZjU5ZDYtNmQ3ZC00MWMxLTk3OWMtZmIwNDM3YzM1NjMwIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
+Apple Health Dashboard
+
+Amazon Halo Dashboard
+
 [Netflix Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmYwMWMwYjItNWVjZS00MzEwLTlmZjAtZmU3NWM2YzQ3NzU1IiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
 
 [Power Bi for Financial Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiMjE1YWY1OGYtYmRhOS00MDgwLTk5M2UtYWYwNWI2NTQ0MTljIiwidCI6ImRkMjQ2ZTRhLTU0MzQtNGUxNS04YWUzLTkxYWQ5Nzk3YjIwOSIsImMiOjN9&pageName=ReportSection)
@@ -37,6 +41,10 @@ My MapMyRun Projects are my original data analysis projects and I am happy to sh
 ###### [Certification Dashboard (Tableau)](https://public.tableau.com/app/profile/cole.b.hamilton/viz/MyCertificationTracker/Dashboard1)
 
 ### [Tweepy](https://github.com/Cbhami/Coraline/tree/master/Tweepy)
+
+### [UoM Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
+
+### [UofW Files](https://github.com/Cbhami/Coraline/tree/master/UoM%20Files)
 
 ### [MachineLearning](https://github.com/Cbhami/Coraline/tree/master/MachineLearning)
 
