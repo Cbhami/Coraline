@@ -1,4 +1,31 @@
 "Date Submitted","Workout Date","Activity Type","Calories Burned (kCal)","Distance (mi)","Workout Time (seconds)","Avg Pace (min/mi)","Max Pace (min/mi)","Avg Speed (mi/h)","Max Speed (mi/h)","Avg Heart Rate","Steps","Notes","Source","Link","Duration","day","dayofmonth","month","year"
+2023-05-24,2023-05-24,"Run",541,4.65,2704,9.68,0.46,6.2,131.42,149,7110,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7292053159",45.07,"Wednesday",24,"May",2023
+2023-05-22,2023-05-22,"Run",543,4.65,2731,9.78,5.35,6.14,11.21,145,7143,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7287459745",45.52,"Monday",22,"May",2023
+2023-05-20,2023-05-20,"Run",569,4.24,2834,11.13,0.48,5.39,124.24,152,7633,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7283442016",47.23,"Saturday",20,"May",2023
+2023-05-19,2023-05-19,"Run",624,4.65,2722,9.75,0.45,6.15,133.94,0,6847,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7281605500",45.37,"Friday",19,"May",2023
+2023-05-17,2023-05-17,"Run",603,4.5,2635,9.76,0.99,6.15,60.6,0,6853,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7278574366",43.92,"Wednesday",17,"May",2023
+2023-05-16,2023-05-16,"Run",539,4.6,2877,10.42,0.48,5.76,123.97,145,7650,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7275295453",47.95,"Tuesday",16,"May",2023
+2023-05-14,2023-05-14,"Run",401,3.26,2156,11.01,3.58,5.45,16.74,128,5550,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7271234107",35.93,"Sunday",14,"May",2023
+2023-05-13,2023-05-13,"Run",621,4.61,2732,9.88,0.89,6.07,67.67,0,7056,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7269453583",45.53,"Saturday",13,"May",2023
+2023-05-11,2023-05-11,"Run",559,4.59,3578,12.98,0.91,4.62,65.81,137,7603,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7266478729",59.63,"Thursday",11,"May",2023
+2023-05-10,2023-05-10,"Run",564,4.54,3191,11.72,0.81,5.12,74,147,7168,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7264282762",53.18,"Wednesday",10,"May",2023
+2023-05-08,2023-05-08,"Run",395,3.1,1764,9.47,0.97,6.34,61.83,168,4566,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7260080857",29.4,"Monday",8,"May",2023
+2023-05-06,2023-05-06,"Run",552,4.63,2791,10.03,0.41,5.98,145.19,156,7220,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7254938779",46.52,"Saturday",6,"May",2023
+2023-05-05,2023-05-05,"Run",343,2.65,1562,9.8,0.51,6.12,118.78,165,4084,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7253954098",26.03,"Friday",5,"May",2023
+2023-05-01,2023-05-01,"Run",408,2.56,1519,9.89,1.76,6.07,34.03,169,3971,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7245765841",25.32,"Monday",1,"May",2023
+2023-04-29,2023-04-29,"Run",633,5,3048,10.16,0.49,5.91,123.64,164,7980,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7241026975",50.8,"Saturday",29,"April",2023
+2023-04-28,2023-04-28,"Run",420,3.15,1816,9.62,5.46,6.24,10.98,0,4754,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7240171036",30.27,"Friday",28,"April",2023
+2023-04-27,2023-04-27,"Run",346,2.52,1531,10.13,3.94,5.92,15.25,173,3965,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7238295151",25.52,"Thursday",27,"April",2023
+2023-04-22,2023-04-22,"Run",520,4,2428,10.11,0.03,5.94,1842.88,163,6301,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7227601555",40.47,"Saturday",22,"April",2023
+2023-04-18,2023-04-18,"Run",478,3.65,2587,11.82,1.06,5.08,56.57,152,5918,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7220801794",43.12,"Tuesday",18,"April",2023
+2023-04-17,2023-04-17,"Run",418,3.1,1890,10.15,2.24,5.91,26.78,164,4895,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7218781807",31.5,"Monday",17,"April",2023
+2023-04-10,2023-04-10,"Run",430,3.12,2178,11.65,1.2,5.15,49.8,158,5044,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7204560130",36.3,"Monday",10,"April",2023
+2023-04-07,2023-04-07,"Run",414,3.1,1902,10.21,0.97,5.88,61.9,165,4961,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7198141171",31.7,"Friday",7,"April",2023
+2023-04-02,2023-04-02,"Run",390,2.87,3141,18.23,1.85,3.29,32.47,132,4864,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7189241116",52.35,"Sunday",2,"April",2023
+2023-04-01,2023-04-01,"Run",434,3.11,1908,10.23,0.45,5.87,133.05,170,4961,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7186814824",31.8,"Saturday",1,"April",2023
+2023-03-31,2023-03-31,"Run",427,3.1,1946,10.46,0,5.73,0,148,5130,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7185629524",32.43,"Friday",31,"March",2023
+2023-03-29,2023-03-29,"Run",347,2.92,1870,10.66,1.36,5.63,44.26,146,4589,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7181356381",31.17,"Wednesday",29,"March",2023
+2023-03-26,2023-03-26,"Run",425,3.1,1921,10.33,0,5.81,0,NA,5070,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7176905878",32.02,"Sunday",26,"March",2023
 2023-03-22,2023-03-22,"Run",537,4.43,2827,10.63,0.45,5.64,133.3,142,7462,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7168714327",47.12,"Wednesday",22,"March",2023
 2023-03-17,2023-03-16,"Run",323,3.11,1869,10.03,0.75,5.98,80.54,153,4879,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7161098257",31.15,"Thursday",16,"March",2023
 2023-03-14,2023-03-14,"Run",559,4.66,3453,12.34,1.64,4.86,36.69,130,7620,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/7155598774",57.55,"Tuesday",14,"March",2023
@@ -43,7 +70,6 @@
 2022-11-24,2022-11-24,"Run",403,3.1,1658,8.91,3.98,6.73,15.07,145,4439,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6976261249",27.63,"Thursday",24,"November",2022
 2022-11-23,2022-11-23,"Run",414,3.1,1801,9.68,5.58,6.2,10.76,160,2052,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6975062074",30.02,"Wednesday",23,"November",2022
 2022-11-22,2022-11-22,"Run",415,3.1,1803,9.69,13.66,6.19,4.39,163,15,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6973978099",30.05,"Tuesday",22,"November",2022
-2022-09-11,2022-11-20,"Run",459,3.66,2273,10.35,0.47,5.8,128.46,146,6002,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6839610871",37.88,"Sunday",20,"November",2022
 2022-11-19,2022-11-19,"Run",428,3.1,1956,10.52,5.7,5.71,10.53,157,4102,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6968952118",32.6,"Saturday",19,"November",2022
 2022-11-14,2022-11-14,"Run",420,3.1,1870,10.05,0,5.97,0,NA,4948,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6961357696",31.17,"Monday",14,"November",2022
 2022-11-10,2022-11-10,"Run",429,3.1,1970,10.59,0,5.66,0,NA,5187,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6955476280",32.83,"Thursday",10,"November",2022
@@ -64,6 +90,12 @@
 2022-09-23,2022-09-23,"Run",412,3.1,1775,9.54,0,6.29,0,NA,4721,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6864982399",29.58,"Friday",23,"September",2022
 2022-09-18,2022-09-18,"Indoor Run / Jog",413,3.1,1779,9.56,10.57,6.27,5.67,138,4212,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6854315680",29.65,"Sunday",18,"September",2022
 2022-09-17,2022-09-17,"Run",415,3.11,1892,10.14,0.45,5.91,134.37,159,4970,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6852309619",31.53,"Saturday",17,"September",2022
+2022-11-20,2022-09-11,"Run",459,3.66,2273,10.35,0.47,5.8,128.46,146,6002,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6839610871",37.88,"Sunday",11,"September",2022
+2022-07-20,2022-09-07,"Run",655,4.9,2844,9.67,0,6.2,0,NA,7554,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6830915665",47.4,"Wednesday",7,"September",2022
+2022-05-20,2022-09-05,"Run",629,5.01,3964,13.18,0.4,4.55,148.19,125,8485,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6827565649",66.07,"Monday",5,"September",2022
+2022-04-20,2022-09-04,"Run",491,3.75,2584,11.49,1.28,5.22,46.87,143,6236,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6825445066",43.07,"Sunday",4,"September",2022
+2022-03-20,2022-09-03,"Run",601,4.5,2941,10.89,2.25,5.51,26.62,151,7436,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6823489405",49.02,"Saturday",3,"September",2022
+2022-02-20,2022-09-02,"Indoor Run / Jog",800,5.85,3600,10.26,10.42,5.85,5.76,133,9604,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6821006155",60,"Friday",2,"September",2022
 2022-08-31,2022-08-31,"Run",670,5.01,2913,9.69,0,6.19,0,NA,4716,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6816300529",48.55,"Wednesday",31,"August",2022
 2022-08-30,2022-08-30,"Indoor Run / Jog",408,3.1,1723,9.26,9.31,6.48,6.44,147,4396,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6814829581",28.72,"Tuesday",30,"August",2022
 2022-08-29,2022-08-29,"Indoor Run / Jog",412,3.1,1777,9.55,10.06,6.28,5.96,134,4270,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6812548111",29.62,"Monday",29,"August",2022
@@ -89,7 +121,6 @@
 2022-07-24,2022-07-24,"Run",415,3.1,1805,9.7,0,6.18,0,NA,4793,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6733355986",30.08,"Sunday",24,"July",2022
 2022-07-21,2022-07-21,"Walk",227,1.6,1657,17.21,1.7,3.49,35.29,131,3001,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6727309057",27.62,"Thursday",21,"July",2022
 2022-07-21,2022-07-21,"Run",422,3.1,1857,9.98,1.21,6.01,49.56,158,4849,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6727253488",30.95,"Thursday",21,"July",2022
-2022-09-07,2022-07-20,"Run",655,4.9,2844,9.67,0,6.2,0,NA,7554,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6830915665",47.4,"Wednesday",20,"July",2022
 2022-07-20,2022-07-20,"Run",836,6.2,3689,9.92,0,6.05,0,NA,9775,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6725708821",61.48,"Wednesday",20,"July",2022
 2022-07-18,2022-07-18,"Run",1175,9,5709,10.57,0.46,5.68,130.3,143,14918,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6720217687",95.15,"Monday",18,"July",2022
 2022-07-17,2022-07-17,"Run",404,3.1,1593,8.56,0,7.01,0,NA,4286,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6719394583",26.55,"Sunday",17,"July",2022
@@ -124,7 +155,6 @@
 2022-05-25,2022-05-25,"Run",801,6.21,3735,10.03,0.99,5.98,60.53,150,9802,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6601698406",62.25,"Wednesday",25,"May",2022
 2022-05-24,2022-05-24,"Run",408,3.1,1731,9.31,0,6.45,0,NA,4616,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6599462509",28.85,"Tuesday",24,"May",2022
 2022-05-22,2022-05-22,"Run",420,3.1,1865,10.03,0,5.98,0,NA,4936,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6595158784",31.08,"Sunday",22,"May",2022
-2022-09-05,2022-05-20,"Run",629,5.01,3964,13.18,0.4,4.55,148.19,125,8485,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6827565649",66.07,"Friday",20,"May",2022
 2022-05-20,2022-05-20,"Run",417,3.1,1827,9.82,0,6.11,0,NA,4845,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6591327880",30.45,"Friday",20,"May",2022
 2022-05-20,2022-05-20,"Run",394,3.1,1839,9.88,1.32,6.07,45.51,149,4858,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6590976649",30.65,"Friday",20,"May",2022
 2022-05-17,2022-05-17,"Run",840,6.2,3843,10.32,1.04,5.81,57.83,151,10162,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6583933738",64.05,"Tuesday",17,"May",2022
@@ -150,7 +180,6 @@
 2022-04-23,2022-04-23,"Run",403,3.1,1659,8.92,0,6.73,0,NA,4444,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6530209972",27.65,"Saturday",23,"April",2022
 2022-04-22,2022-04-22,"Run",406,3.1,1700,9.14,0,6.56,0,NA,4542,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6528199306",28.33,"Friday",22,"April",2022
 2022-04-21,2022-04-21,"Run",412,3.1,1747,9.37,8.78,6.4,6.84,159,4639,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6526547335",29.12,"Thursday",21,"April",2022
-2022-09-04,2022-04-20,"Run",491,3.75,2584,11.49,1.28,5.22,46.87,143,6236,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6825445066",43.07,"Wednesday",20,"April",2022
 2022-04-19,2022-04-19,"Run",650,5.02,2863,9.5,8.6,6.32,6.98,152,7656,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6522224401",47.72,"Tuesday",19,"April",2022
 2022-04-18,2022-04-18,"Run",407,3.1,1766,9.48,8.6,6.33,6.97,153,4696,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6520116703",29.43,"Monday",18,"April",2022
 2022-04-19,2022-04-17,"Run",414,3.1,1800,9.68,0,6.2,0,NA,4781,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6523663267",30,"Sunday",17,"April",2022
@@ -165,7 +194,6 @@
 2022-03-31,2022-03-27,"Run",402,3.1,1811,9.72,7.5,6.17,8,155,4714,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6485079163",30.18,"Sunday",27,"March",2022
 2022-03-25,2022-03-25,"Run",406,3.1,1704,9.16,0,6.55,0,NA,4551,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6472625521",28.4,"Friday",25,"March",2022
 2022-03-25,2022-03-23,"Run",415,3.1,1803,9.69,0,6.19,0,NA,4788,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6472625032",30.05,"Wednesday",23,"March",2022
-2022-09-03,2022-03-20,"Run",601,4.5,2941,10.89,2.25,5.51,26.62,151,7436,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6823489405",49.02,"Sunday",20,"March",2022
 2022-03-20,2022-03-20,"Run",837,6.2,3694,9.93,0,6.04,0,NA,9787,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6461523061",61.57,"Sunday",20,"March",2022
 2022-03-19,2022-03-19,"Run",830,6.2,3613,9.71,0,6.18,0,NA,9593,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6459644329",60.22,"Saturday",19,"March",2022
 2022-03-14,2022-03-13,"Run",418,3.1,1847,9.93,0,6.04,0,NA,4893,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6448408846",30.78,"Sunday",13,"March",2022
@@ -181,7 +209,6 @@
 2022-02-22,2022-02-23,"Run",404,3.1,1600,8.6,0,6.97,0,NA,4303,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6409595890",26.67,"Wednesday",23,"February",2022
 2022-02-21,2022-02-21,"Walk",487,4.07,4837,19.77,0.38,3.03,156.76,100,5841,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6406223656",80.62,"Monday",21,"February",2022
 2022-02-21,2022-02-21,"Run",475,3.61,2071,9.57,0.94,6.27,63.82,161,5569,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6406053613",34.52,"Monday",21,"February",2022
-2022-09-02,2022-02-20,"Indoor Run / Jog",800,5.85,3600,10.26,10.42,5.85,5.76,133,9604,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6821006155",60,"Sunday",20,"February",2022
 2022-02-19,2022-02-17,"Run",403,3.1,1620,8.71,0,6.89,0,NA,4350,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6402870877",27,"Thursday",17,"February",2022
 2022-02-19,2022-02-16,"Run",265,2,1132,9.43,0,6.36,0,NA,3014,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6402870073",18.87,"Wednesday",16,"February",2022
 2022-02-13,2022-02-13,"Run",403,3.1,1611,8.66,0,6.93,0,NA,4329,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6391806598",26.85,"Sunday",13,"February",2022
@@ -219,7 +246,6 @@
 2021-12-23,2021-12-23,"Run",816,6.2,3744,10.06,0.45,5.97,134.02,151,9888,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6294357232",62.4,"Thursday",23,"December",2021
 2021-12-22,2021-12-22,"Run",720,6.2,3633,9.76,0.8,6.15,74.94,149,9628,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6292982455",60.55,"Wednesday",22,"December",2021
 2021-12-21,2021-12-20,"Run",448,3.23,2058,10.62,0,5.65,0,NA,5418,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6291245980",34.3,"Monday",20,"December",2021
-2021-09-13,2021-12-20,"Run",420,3.1,1864,10.02,0,5.99,0,NA,4934,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6090890317",31.07,"Monday",20,"December",2021
 2021-12-18,2021-12-18,"Run",821,6.18,3397,9.15,1.4,6.55,42.74,163,9059,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6288004690",56.62,"Saturday",18,"December",2021
 2021-12-16,2021-12-16,"Run",401,3.1,1717,9.21,6.81,6.52,8.81,149,4535,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6284245765",28.62,"Thursday",16,"December",2021
 2021-12-15,2021-12-15,"Run",403,3.1,1642,8.83,0,6.8,0,NA,4403,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6283520806",27.37,"Wednesday",15,"December",2021
@@ -237,7 +263,6 @@
 2021-11-23,2021-11-23,"Run",674,5,2966,9.89,0,6.07,0,NA,7861,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6246150541",49.43,"Tuesday",23,"November",2021
 2021-11-22,2021-11-22,"Run",400,3.11,1783,9.55,4.62,6.28,12.98,150,4789,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6244334491",29.72,"Monday",22,"November",2021
 2021-11-20,2021-11-20,"Run",410,3.1,1748,9.4,0,6.38,0,NA,4656,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6242020141",29.13,"Saturday",20,"November",2021
-2021-09-13,2021-11-20,"Run",419,3.1,1854,9.97,0,6.02,0,NA,4910,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6090889261",30.9,"Saturday",20,"November",2021
 2021-11-17,2021-11-17,"Run",408,3.1,1723,9.26,0,6.48,0,NA,4597,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6236784922",28.72,"Wednesday",17,"November",2021
 2021-11-17,2021-11-16,"Run",416,3.1,1818,9.77,0,6.14,0,NA,4824,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6236785378",30.3,"Tuesday",16,"November",2021
 2021-11-15,2021-11-15,"Run",421,3.18,1800,9.43,0,6.36,0,NA,4793,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6231187741",30,"Monday",15,"November",2021
@@ -267,11 +292,19 @@
 2021-09-25,2021-09-25,"Run",521,4,2164,9.02,0,6.65,0,NA,5790,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6122395927",36.07,"Saturday",25,"September",2021
 2021-09-24,2021-09-24,"Run",494,3.56,2015,9.44,4.25,6.36,14.13,161,5340,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6119313610",33.58,"Friday",24,"September",2021
 2021-09-23,2021-09-23,"Run",469,3.56,2143,10.04,2.4,5.98,24.99,146,5720,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6116894062",35.72,"Thursday",23,"September",2021
-2021-09-09,2021-09-20,"Walk",91,0.6,797,21.95,13.98,2.73,4.29,111,1219,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6080732191",13.28,"Monday",20,"September",2021
-2021-09-09,2021-09-20,"Run",925,6.24,3855,10.29,1.04,5.83,57.56,148,10228,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6080689447",64.25,"Monday",20,"September",2021
 2021-09-17,2021-09-17,"Run",415,3.1,1809,9.73,0,6.17,0,NA,4802,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6102967498",30.15,"Friday",17,"September",2021
 2021-09-16,2021-09-17,"Run",407,3.1,1719,9.24,0,6.49,0,NA,4587,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6101237071",28.65,"Friday",17,"September",2021
 2021-09-13,2021-09-13,"Run",449,3.5,2021,9.61,0.43,6.24,138.57,148,5376,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6090886243",33.68,"Monday",13,"September",2021
+2021-09-13,2021-09-12,"Run",420,3.1,1864,10.02,0,5.99,0,NA,4934,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6090890317",31.07,"Sunday",12,"September",2021
+2021-09-13,2021-09-11,"Run",419,3.1,1854,9.97,0,6.02,0,NA,4910,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6090889261",30.9,"Saturday",11,"September",2021
+2021-09-20,2021-09-09,"Walk",91,0.6,797,21.95,13.98,2.73,4.29,111,1219,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6080732191",13.28,"Thursday",9,"September",2021
+2021-09-20,2021-09-09,"Run",925,6.24,3855,10.29,1.04,5.83,57.56,148,10228,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6080689447",64.25,"Thursday",9,"September",2021
+2021-06-20,2021-09-06,"Walk",355,2.33,3387,24.16,0.8,2.48,75.43,105,4560,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6073275073",56.45,"Monday",6,"September",2021
+2021-06-20,2021-09-06,"Run",320,2.47,1461,9.87,0.93,6.08,64.24,146,3878,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6073098730",24.35,"Monday",6,"September",2021
+2021-05-20,2021-09-04,"Walk",309,2.62,2210,14.06,0.88,4.27,68.33,81,5348,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6070334725",36.83,"Saturday",4,"September",2021
+2021-04-20,2021-09-04,"Run",344,2.48,1458,9.81,0.99,6.12,60.68,150,3865,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6067992841",24.3,"Saturday",4,"September",2021
+2021-03-20,2021-09-03,"Run",550,4,2367,9.86,2.88,6.09,20.8,155,6331,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6064529734",39.45,"Friday",3,"September",2021
+2021-01-20,2021-09-01,"Run",412,3.1,1818,9.76,0.42,6.15,141.83,157,4864,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6059180914",30.3,"Wednesday",1,"September",2021
 2021-08-31,2021-08-31,"Run",453,3.56,2043,9.56,5.08,6.27,11.8,150,5471,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6056438434",34.05,"Tuesday",31,"August",2021
 2021-08-29,2021-08-29,"Run",416,3.11,1787,9.59,0.86,6.26,69.83,156,4710,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6052229692",29.78,"Sunday",29,"August",2021
 2021-08-28,2021-08-28,"Run",420,3.1,1815,9.74,1.21,6.16,49.53,157,4786,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6049912678",30.25,"Saturday",28,"August",2021
@@ -321,8 +354,6 @@
 2021-06-29,2021-06-29,"Run",407,3.11,1866,10,1.11,6,54.25,156,4916,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5891702641",31.1,"Tuesday",29,"June",2021
 2021-06-25,2021-06-25,"Indoor Run / Jog",403,3.1,1669,8.97,0,6.69,0,NA,6859,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5881205146",27.82,"Friday",25,"June",2021
 2021-06-21,2021-06-21,"Run",334,2.43,1796,12.32,0.96,4.87,62.64,139,4016,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5869199218",29.93,"Monday",21,"June",2021
-2021-09-06,2021-06-20,"Walk",355,2.33,3387,24.16,0.8,2.48,75.43,105,4560,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6073275073",56.45,"Sunday",20,"June",2021
-2021-09-06,2021-06-20,"Run",320,2.47,1461,9.87,0.93,6.08,64.24,146,3878,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6073098730",24.35,"Sunday",20,"June",2021
 2021-06-15,2021-06-15,"Run",518,4.3,2531,9.81,0.86,6.12,69.64,162,6368,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5852597005",42.18,"Tuesday",15,"June",2021
 2021-06-14,2021-06-14,"Run",393,3.1,1815,9.74,1.11,6.16,54.12,154,4781,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5849544379",30.25,"Monday",14,"June",2021
 2021-06-12,2021-06-12,"Run",491,3.17,3545,18.61,0.9,3.22,66.46,125,6108,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5844677413",59.08,"Saturday",12,"June",2021
@@ -340,8 +371,6 @@
 2021-04-26,2021-04-26,"Run",674,5,3002,10.01,1.35,6,44.36,156,8118,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5706115867",50.03,"Monday",26,"April",2021
 2021-04-24,2021-04-24,"Run",1471,10,6605,11,0.96,5.45,62.33,152,17517,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5700582346",110.08,"Saturday",24,"April",2021
 2021-04-21,2021-04-21,"Run",1928,13.48,10191,12.6,0.48,4.76,126.23,144,22719,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5692867222",169.85,"Wednesday",21,"April",2021
-2021-09-05,2021-04-20,"Walk",309,2.62,2210,14.06,0.88,4.27,68.33,81,5348,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6070334725",36.83,"Tuesday",20,"April",2021
-2021-09-04,2021-04-20,"Run",344,2.48,1458,9.81,0.99,6.12,60.68,150,3865,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6067992841",24.3,"Tuesday",20,"April",2021
 2021-04-19,2021-04-19,"Run",1264,8.55,5659,11.03,2.9,5.44,20.72,159,14495,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5686813231",94.32,"Monday",19,"April",2021
 2021-04-18,2021-04-18,"Run",404,3.1,1605,8.63,0,6.95,0,NA,4314,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5683027252",26.75,"Sunday",18,"April",2021
 2021-04-17,2021-04-17,"Run",260,2,1065,8.88,0,6.76,0,NA,2854,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5679922159",17.75,"Saturday",17,"April",2021
@@ -361,14 +390,12 @@
 2021-03-27,2021-03-27,"Indoor Run / Jog",444,3.19,2053,10.73,0,5.59,0,NA,7058,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5613685903",34.22,"Saturday",27,"March",2021
 2021-03-23,2021-03-23,"Run",369,2.66,1830,11.46,1.24,5.23,48.35,152,4449,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5598766606",30.5,"Tuesday",23,"March",2021
 2021-03-21,2021-03-21,"Run",621,4.36,3386,12.94,7.56,4.64,7.93,148,7572,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5592731101",56.43,"Sunday",21,"March",2021
-2021-09-03,2021-03-20,"Run",550,4,2367,9.86,2.88,6.09,20.8,155,6331,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6064529734",39.45,"Saturday",20,"March",2021
 2021-03-20,2021-03-20,"Run",744,4.97,3969,13.31,1.08,4.51,55.46,149,8713,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5589864511",66.15,"Saturday",20,"March",2021
 2021-03-18,2021-03-18,"Indoor Run / Jog",398,2.9,1800,10.34,0,5.8,0,NA,6417,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5582637859",30,"Thursday",18,"March",2021
 2021-03-17,2021-03-17,"Run",616,4.14,2619,10.52,1.04,5.7,57.51,164,6998,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5579410186",43.65,"Wednesday",17,"March",2021
 2021-03-16,2021-03-16,"Run",498,3.11,2134,11.43,0.46,5.25,129.5,158,5416,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5575999600",35.57,"Tuesday",16,"March",2021
 2021-03-14,2021-03-14,"Run",416,3.11,2352,12.6,0,4.76,0,NA,6103,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5571122062",39.2,"Sunday",14,"March",2021
 2021-03-13,2021-03-13,"Run",400,3.1,2476,13.31,0,4.51,0,NA,6398,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5568005278",41.27,"Saturday",13,"March",2021
-2021-09-01,2021-01-20,"Run",412,3.1,1818,9.76,0.42,6.15,141.83,157,4864,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/6059180914",30.3,"Wednesday",20,"January",2021
 2021-01-12,2021-01-12,"Run",410,3.1,1745,9.38,0,6.4,0,NA,4649,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5339670910",29.08,"Tuesday",12,"January",2021
 2021-01-10,2021-01-10,"Run",411,3.1,1766,9.49,0,6.32,0,NA,4700,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5329317541",29.43,"Sunday",10,"January",2021
 2021-01-10,2021-01-09,"Run",415,3.1,1809,9.73,0,6.17,0,NA,4802,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/5329321264",30.15,"Saturday",9,"January",2021
@@ -387,7 +414,6 @@
 2020-11-01,2020-11-01,"Run",407,3.1,1721,9.25,0,6.48,0,NA,4592,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4809741217",28.68,"Sunday",1,"November",2020
 2020-10-31,2020-10-31,"Run",402,3.1,1581,8.5,0,7.06,0,NA,4257,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4805442343",26.35,"Saturday",31,"October",2020
 2020-10-31,2020-10-30,"Run",355,2.5,1695,11.3,0,5.31,0,NA,4438,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4805443468",28.25,"Friday",30,"October",2020
-2020-09-10,2020-10-20,"Run",1308,10.07,5391,8.92,0,6.72,0,NA,14439,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4662545827",89.85,"Tuesday",20,"October",2020
 2020-10-16,2020-10-16,"Run",1519,10.88,7059,10.81,0.77,5.55,77.83,0,18553,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4765508794",117.65,"Friday",16,"October",2020
 2020-10-15,2020-10-15,"Run",418,3.1,1840,9.89,0.99,6.07,60.44,0,4980,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4762812637",30.67,"Thursday",15,"October",2020
 2020-10-11,2020-10-11,"Run",813,6.58,5424,13.74,0.03,4.37,1853.55,127,11855,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4752438949",90.4,"Sunday",11,"October",2020
@@ -409,6 +435,12 @@
 2020-09-16,2020-09-16,"Run",824,6.14,3600,9.77,0,6.14,0,NA,9552,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4678964659",60,"Wednesday",16,"September",2020
 2020-09-14,2020-09-14,"Run",881,6.78,3600,8.85,0,6.78,0,NA,9651,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4672281322",60,"Monday",14,"September",2020
 2020-09-13,2020-09-13,"Run",398,3.1,1537,8.26,0,7.26,0,NA,4152,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4669456663",25.62,"Sunday",13,"September",2020
+2020-10-20,2020-09-10,"Run",1308,10.07,5391,8.92,0,6.72,0,NA,14439,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4662545827",89.85,"Thursday",10,"September",2020
+2020-07-20,2020-09-07,"Run",337,3.1,1749,9.4,0.99,6.38,60.74,163,4696,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4654873192",29.15,"Monday",7,"September",2020
+2020-06-20,2020-09-06,"Run",328,3.1,1787,9.6,1.04,6.25,57.76,161,4819,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4652419447",29.78,"Sunday",6,"September",2020
+2020-04-20,2020-09-04,"Run",381,3.01,1434,7.94,0,7.56,0,NA,3892,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4646264152",23.9,"Friday",4,"September",2020
+2020-02-20,2020-09-02,"Run",456,3.5,1902,9.06,0,6.62,0,NA,1814,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4640741869",31.7,"Wednesday",2,"September",2020
+2020-01-20,2020-09-01,"Run",404,3.1,1594,8.57,0,7,0,NA,4288,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4637769910",26.57,"Tuesday",1,"September",2020
 2020-08-29,2020-08-29,"Run",421,3.21,1778,9.24,1.64,6.49,36.68,76,5219,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4630791502",29.63,"Saturday",29,"August",2020
 2020-08-28,2020-08-28,"Run",199,1.88,1263,11.18,1.85,5.37,32.48,142,3051,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4626976201",21.05,"Friday",28,"August",2020
 2020-08-25,2020-08-25,"Run",249,2.43,1388,9.5,0.97,6.32,62.09,142,3759,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4618409722",23.13,"Tuesday",25,"August",2020
@@ -438,7 +470,6 @@
 2020-07-24,2020-07-24,"Run",312,2.85,1638,9.57,0.92,6.27,65.07,156,4356,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4526617765",27.3,"Friday",24,"July",2020
 2020-07-23,2020-07-23,"Run",385,3.48,2070,9.9,1.04,6.06,57.95,159,5564,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4524051922",34.5,"Thursday",23,"July",2020
 2020-07-21,2020-07-21,"Run",213,2.02,1122,9.27,0.44,6.47,137.08,151,3008,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4517769403",18.7,"Tuesday",21,"July",2020
-2020-09-07,2020-07-20,"Run",337,3.1,1749,9.4,0.99,6.38,60.74,163,4696,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4654873192",29.15,"Monday",20,"July",2020
 2020-07-20,2020-07-20,"Run",232,2.06,1157,9.37,1.16,6.41,51.55,157,3131,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4514450527",19.28,"Monday",20,"July",2020
 2020-07-17,2020-07-17,"Run",118,1.16,649,9.35,4.63,6.42,12.95,117,1728,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4506213121",10.82,"Friday",17,"July",2020
 2020-07-16,2020-07-16,"Run",348,3.34,1819,9.07,5.81,6.61,10.33,128,4894,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4503101299",30.32,"Thursday",16,"July",2020
@@ -467,7 +498,6 @@
 2020-06-23,2020-06-23,"Run",822,7.82,4546,9.69,1.25,6.19,48.18,130,12387,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4432518508",75.77,"Tuesday",23,"June",2020
 2020-06-21,2020-06-21,"Walk",96,1.02,1117,18.17,1.8,3.3,33.42,102,1920,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4426923889",18.62,"Sunday",21,"June",2020
 2020-06-21,2020-06-21,"Run",158,1.57,815,8.61,2.45,6.97,24.45,144,2205,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4426877830",13.58,"Sunday",21,"June",2020
-2020-09-06,2020-06-20,"Run",328,3.1,1787,9.6,1.04,6.25,57.76,161,4819,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4652419447",29.78,"Saturday",20,"June",2020
 2020-06-20,2020-06-20,"Run",517,5.02,2964,9.84,6.92,6.1,8.67,129,7906,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4423975759",49.4,"Saturday",20,"June",2020
 2020-06-19,2020-06-19,"Run",518,4.75,2816,9.89,0.69,6.07,87.34,148,7597,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4419912247",46.93,"Friday",19,"June",2020
 2020-06-18,2020-06-18,"Walk",89,0.91,1078,19.74,7.76,3.04,7.73,112,1587,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4418097295",17.97,"Thursday",18,"June",2020
@@ -530,7 +560,6 @@
 2020-04-22,2020-04-22,"Run",461,4.35,2353,9.01,2.55,6.66,23.53,148,6417,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4200751324",39.22,"Wednesday",22,"April",2020
 2020-04-22,2020-04-22,"Run",446,4.2,2333,9.25,4.84,6.49,12.39,150,6369,"b' '","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4198196242",38.88,"Wednesday",22,"April",2020
 2020-04-21,2020-04-21,"Run",436,4.2,2207,8.75,0.84,6.86,71.04,158,5944,"b'T'","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4196384737",36.78,"Tuesday",21,"April",2020
-2020-09-04,2020-04-20,"Run",381,3.01,1434,7.94,0,7.56,0,NA,3892,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4646264152",23.9,"Monday",20,"April",2020
 2020-04-20,2020-04-20,"Walk",34,0.42,606,24.24,12.64,2.48,4.75,91,830,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4191504520",10.1,"Monday",20,"April",2020
 2020-04-20,2020-04-20,"Run",409,4.01,2241,9.3,0.97,6.45,61.85,142,5986,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4191436102",37.35,"Monday",20,"April",2020
 2020-04-19,2020-04-19,"Walk",100,1,1119,18.58,1.85,3.23,32.35,107,2031,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4187836198",18.65,"Sunday",19,"April",2020
@@ -590,7 +619,6 @@
 2020-02-23,2020-02-23,"Run",292,3.1,1475,7.93,1.54,7.56,38.9,164,4063,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4045768432",24.58,"Sunday",23,"February",2020
 2020-02-22,2020-02-22,"Run",399,3.1,1544,8.3,0,7.23,0,NA,4169,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4044053236",25.73,"Saturday",22,"February",2020
 2020-02-21,2020-02-21,"Run",461,3.56,1800,8.43,0,7.12,0,NA,4851,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4042047451",30,"Friday",21,"February",2020
-2020-09-02,2020-02-20,"Run",456,3.5,1902,9.06,0,6.62,0,NA,1814,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4640741869",31.7,"Thursday",20,"February",2020
 2020-02-20,2020-02-20,"Run",949,7.32,3720,8.47,0,7.08,0,NA,10021,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4040617462",62,"Thursday",20,"February",2020
 2020-02-18,2020-02-18,"Run",450,3.46,1800,8.67,0,6.92,0,NA,4836,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4038258232",30,"Tuesday",18,"February",2020
 2020-02-17,2020-02-17,"Run",403,3.1,1645,8.84,0,6.78,0,NA,4410,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4035496453",27.42,"Monday",17,"February",2020
@@ -609,7 +637,6 @@
 2020-01-26,2020-01-26,"Run",462,3.36,2100,10.42,0,5.76,0,NA,5538,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4000007806",35,"Sunday",26,"January",2020
 2020-01-25,2020-01-25,"Run",460,3.33,2100,10.51,0,5.71,0,NA,5534,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3998382181",35,"Saturday",25,"January",2020
 2020-01-24,2020-01-24,"Run",473,3.49,2100,10.03,0,5.98,0,NA,5558,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3996567850",35,"Friday",24,"January",2020
-2020-09-01,2020-01-20,"Run",404,3.1,1594,8.57,0,7,0,NA,4288,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/4637769910",26.57,"Monday",20,"January",2020
 2020-01-20,2020-01-20,"Run",585,4.21,2704,10.7,0,5.61,0,NA,7113,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3990251161",45.07,"Monday",20,"January",2020
 2020-01-18,2020-01-18,"Run",451,3.22,2100,10.87,0,5.52,0,NA,5517,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3987186730",35,"Saturday",18,"January",2020
 2020-01-18,2020-01-17,"Run",469,3.4,2143,10.5,0,5.71,0,NA,5647,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3987157456",35.72,"Friday",17,"January",2020
@@ -630,7 +657,6 @@
 2019-12-27,2019-12-27,"Run",414,3.1,1796,9.66,0.34,6.21,175.1,146,4806,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3953508952",29.93,"Friday",27,"December",2019
 2019-12-25,2019-12-25,"Run",403,3.1,1623,8.73,0.41,6.87,145.18,0,4393,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3950844169",27.05,"Wednesday",25,"December",2019
 2019-12-20,2019-12-20,"Run",441,3.1,2102,11.3,0,5.31,0,NA,5503,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3944847634",35.03,"Friday",20,"December",2019
-2019-09-12,2019-12-20,"Run",332,2.6,2099,13.32,0.43,4.51,138.79,0,4530,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3788487304",34.98,"Friday",20,"December",2019
 2019-11-29,2019-11-29,"Run",403,3.1,1628,8.75,1.11,6.86,54.26,161,4482,"b'Awesome'","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3919478809",27.13,"Friday",29,"November",2019
 2019-11-28,2019-11-28,"Run",407,3,1810,10.05,0.64,5.97,93.88,0,4823,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3918091954",30.17,"Thursday",28,"November",2019
 2019-11-18,2019-11-18,"Run",268,2.06,1089,8.8,1.39,6.82,43.1,0,2944,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3904220104",18.15,"Monday",18,"November",2019
@@ -651,10 +677,13 @@
 2019-10-05,2019-10-05,"Run",364,3.26,2832,14.48,0,4.14,0,NA,7274,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3832501090",47.2,"Saturday",5,"October",2019
 2019-09-29,2019-09-29,"Run",297,2.19,1321,10.06,0.66,5.96,90.48,0,3188,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3820795873",22.02,"Sunday",29,"September",2019
 2019-09-22,2019-09-22,"Run",243,2.08,1768,14.13,1.16,4.25,51.89,117,3555,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3806628433",29.47,"Sunday",22,"September",2019
-2019-09-12,2019-09-20,"Run",177,1.84,1184,10.73,0.79,5.59,76.05,122,2809,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3788428462",19.73,"Friday",20,"September",2019
 2019-09-15,2019-09-15,"Walk",105,1.02,979,15.95,1.92,3.76,31.25,0,1908,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3793142101",16.32,"Sunday",15,"September",2019
 2019-09-15,2019-09-15,"Run",118,0.91,476,8.73,0.76,6.87,79.25,0,1281,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3793100851",7.93,"Sunday",15,"September",2019
 2019-09-14,2019-09-14,"Walk",169,1.66,1697,16.92,1.33,3.55,45.18,0,3008,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3791521921",28.28,"Saturday",14,"September",2019
+2019-12-20,2019-09-12,"Run",332,2.6,2099,13.32,0.43,4.51,138.79,0,4530,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3788487304",34.98,"Thursday",12,"September",2019
+2019-12-20,2019-09-09,"Run",177,1.84,1184,10.73,0.79,5.59,76.05,122,2809,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3788428462",19.73,"Monday",9,"September",2019
+2019-07-20,2019-09-07,"Run",398,3.01,1700,9.41,1.56,6.38,38.39,NA,3209,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3778110010",28.33,"Saturday",7,"September",2019
+2019-04-20,2019-09-04,"Run",235,2.51,1488,9.83,3.15,6.11,19.03,141,3772,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3771185662",24.8,"Wednesday",4,"September",2019
 2019-08-31,2019-08-31,"Run",520,4.28,3708,14.4,0.74,4.17,81.63,130,7187,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3763456213",61.8,"Saturday",31,"August",2019
 2019-08-30,2019-08-30,"Walk",118,1.17,1258,17.8,2,3.37,30,128,2386,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3761864470",20.97,"Friday",30,"August",2019
 2019-08-30,2019-08-30,"Run",193,1.51,739,8.17,0.03,7.34,1814.43,164,2081,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3761826181",12.32,"Friday",30,"August",2019
@@ -705,7 +734,6 @@
 2019-07-21,2019-07-21,"Run",66,0.49,289,9.87,6,6.08,9.99,0,753,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3680044450",4.82,"Sunday",21,"July",2019
 2019-07-21,2019-07-21,"Weight Workout",215,0,1560,0,0,0,0,0,NA,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3680036980",26,"Sunday",21,"July",2019
 2019-07-21,2019-07-21,"Walk",111,1.08,986,15.26,3.37,3.93,17.8,0,1873,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3680022862",16.43,"Sunday",21,"July",2019
-2019-09-07,2019-07-20,"Run",398,3.01,1700,9.41,1.56,6.38,38.39,NA,3209,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3778110010",28.33,"Saturday",20,"July",2019
 2019-07-20,2019-07-20,"Walk",199,2.04,2644,21.63,5.19,2.77,11.56,0,4144,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3678019036",44.07,"Saturday",20,"July",2019
 2019-07-20,2019-07-20,"Run",133,1,572,9.48,3.12,6.33,19.24,0,1564,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3677919169",9.53,"Saturday",20,"July",2019
 2019-07-20,2019-07-20,"Walk",36,0.37,453,20.6,10.57,2.91,5.68,0,720,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3677867761",7.55,"Saturday",20,"July",2019
@@ -789,7 +817,6 @@
 2019-05-15,2019-05-15,"Indoor Run / Jog",403,3.13,2344,12.48,0,4.81,0,NA,6926,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3544653742",39.07,"Wednesday",15,"May",2019
 2019-05-13,2019-05-13,"Run",258,1.96,1214,10.32,2.67,5.82,22.45,0,3209,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3541907848",20.23,"Monday",13,"May",2019
 2019-05-13,2019-05-13,"Indoor Run / Jog",191,1.42,927,10.88,17.09,5.51,3.51,158,67,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3540369238",15.45,"Monday",13,"May",2019
-2019-09-04,2019-04-20,"Run",235,2.51,1488,9.83,3.15,6.11,19.03,141,3772,"b''","Map My Fitness MapMyRun iPhone","http://www.mapmyfitness.com/workout/3771185662",24.8,"Saturday",20,"April",2019
 2016-10-19,2016-10-19,"Class Workout",186,0,3600,0,0,0,0,NA,NA,"b''","MyFitnessPal","http://www.mapmyfitness.com/workout/1819452119",60,"Wednesday",19,"October",2016
 2016-10-12,2016-10-12,"Class Workout",183,0,3600,0,0,0,0,NA,NA,"b''","MyFitnessPal","http://www.mapmyfitness.com/workout/1805719352",60,"Wednesday",12,"October",2016
 2016-09-26,2016-09-26,"Class Workout",186,0,3600,0,0,0,0,NA,NA,"b''","MyFitnessPal","http://www.mapmyfitness.com/workout/1773264605",60,"Monday",26,"September",2016
